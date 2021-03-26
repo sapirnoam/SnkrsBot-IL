@@ -1,0 +1,2 @@
+@echo
+python main.py --username YourEmailHere --password YourPassHere --url https://www.nike.com/il/launch/t/womens-air-jordan-1-mid-apricot-orange(EXAMPLE URL) --shoe-size 42 --release-time "2021-03-04 12:59:50" --dont-quit --cvv 716(EXAMPLE) --driver-type chrome
