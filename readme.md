@@ -4,7 +4,7 @@ This is a bot for buying a sneakers from the Israeli Snkrs website ON RELEASE DA
 This is a CLONED version from the original developer to make this bot work on the Israli website.
 
 All the credits belongs to the original developer: https://github.com/alexschimpf/Snkrs-Bot
-Visit his Repo for better understanding about the bot.
+Visit his Repo for a better understanding about the bot.
 
 Quick notes:
 I haven't tested the bot, but my friend did.
